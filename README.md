@@ -1,6 +1,6 @@
-# Patryk Podgórski #
+# Patryk Podgórski 
 
-![](http://www.clker.com/cliparts/l/4/M/i/d/X/turquoise-anonymous-man-hi.png)
+![](/turquoise-anonymous-man-hi.png)
 
 ## Education 
 1. *AGH University of Science and Technology* - 10.2022 - present
