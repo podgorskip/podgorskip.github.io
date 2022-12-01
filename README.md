@@ -1,15 +1,15 @@
 # Patryk Podgórski #
 
-<img src="http://www.clker.com/cliparts/l/4/M/i/d/X/turquoise-anonymous-man-hi.png" width=30% height=10%>
+![](http://www.clker.com/cliparts/l/4/M/i/d/X/turquoise-anonymous-man-hi.png)
 
-## Education </b>
+## Education 
 1. *AGH University of Science and Technology* - 10.2022 - present
-2. *XIth High School in Cracow* - 2019 - 2022 </b></b>
+2. *XIth High School in Cracow* - 2019 - 2022 
 
-## Skills </b>
+## Skills
 1. English C1
 2. Coding C, C++
-3. Soft skills </b>
+3. Soft skills
 
 ## Hobby
 1. Coding
