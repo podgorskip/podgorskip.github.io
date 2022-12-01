@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 
-title: Patryk's Home Page
-description: CV
+title: Home Page
+description: Curriculum vitae
 
 plugins:
 - jekyll-remote-theme 
